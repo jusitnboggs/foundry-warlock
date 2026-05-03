@@ -1,7 +1,10 @@
-# Warlock PF2e module for FoundryVTT
+# Warlock 1.5 PF2e module for FoundryVTT
 This module is a complete conversion of the warlock class from D&D to Pathfinder 2nd edition. The class takes inspiration from 3rd edition warlock, 5th edition warlock, as well as some elements from Pathfinder's witch class.
 
-You can find a complete rundown of the class on its dedicated Scribe page: https://scribe.pf2.tools/v/1dlsL6bS-warlock
+1.5 Verion of the class
+https://www.dropbox.com/scl/fi/oyrfe4njuil4dlzrso3n0/pf2e-warlock.pdf?rlkey=6gimrk6g7qj8u2xok4789ow88&e=1&dl=0
+
+*You can find a complete rundown of the class 3.0 version newer then the module supports on its dedicated Scribe page: https://scribe.pf2.tools/v/1dlsL6bS-warlock
 
 The Foundry module features the class, along with all its features, new feats, new spells, and a decent amount of automation. Additional features will be implemented on a case-by-case basis as time allows.
 
